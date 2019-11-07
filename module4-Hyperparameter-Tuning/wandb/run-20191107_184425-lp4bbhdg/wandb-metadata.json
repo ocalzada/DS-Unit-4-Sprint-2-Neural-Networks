@@ -1,0 +1,27 @@
+{
+    "root": "/storage/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ocalzada/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "c04a7318cafba7e729bde2f775cd796c6ac6bb2c"
+    },
+    "email": "oc1@williams.edu",
+    "startedAt": "2019-11-07T18:44:19.388853",
+    "host": "eb78b52fb80b",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-4.4.0-130-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.8",
+    "cpu_count": 2,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-271344c9-dcaa-4813-82f3-55f66d85ee51.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "electric-wind-68",
+    "project": "boston",
+    "heartbeatAt": "2019-11-07T18:44:25.528625"
+}

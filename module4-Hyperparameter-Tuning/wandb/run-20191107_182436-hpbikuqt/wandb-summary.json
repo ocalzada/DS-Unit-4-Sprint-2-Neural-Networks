@@ -1,0 +1,72 @@
+{
+    "graph": {
+        "_type": "graph",
+        "edges": [
+            [
+                "dense_73_input",
+                "dense_73"
+            ],
+            [
+                "dense_73",
+                "dense_74"
+            ],
+            [
+                "dense_74",
+                "dense_75"
+            ]
+        ],
+        "nodes": [
+            {
+                "id": "dense_73_input",
+                "name": "dense_73_input",
+                "class_name": "InputLayer",
+                "output_shape": [
+                    [
+                        null,
+                        13
+                    ]
+                ],
+                "num_parameters": 0
+            },
+            {
+                "id": "dense_73",
+                "name": "dense_73",
+                "class_name": "Dense",
+                "output_shape": [
+                    null,
+                    64
+                ],
+                "num_parameters": 896
+            },
+            {
+                "id": "dense_74",
+                "name": "dense_74",
+                "class_name": "Dense",
+                "output_shape": [
+                    null,
+                    64
+                ],
+                "num_parameters": 4160
+            },
+            {
+                "id": "dense_75",
+                "name": "dense_75",
+                "class_name": "Dense",
+                "output_shape": [
+                    null,
+                    1
+                ],
+                "num_parameters": 65
+            }
+        ],
+        "format": "keras"
+    },
+    "val_loss": 22.41692323827032,
+    "val_mse": 22.41692352294922,
+    "loss": 11.62435973132098,
+    "mse": 11.624360084533691,
+    "epoch": 49,
+    "_step": 49,
+    "_runtime": 4.715181827545166,
+    "_timestamp": 1573151081.293809
+}

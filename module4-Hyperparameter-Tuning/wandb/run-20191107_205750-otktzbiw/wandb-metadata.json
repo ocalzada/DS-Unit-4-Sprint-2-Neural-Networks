@@ -1,0 +1,26 @@
+{
+    "root": "/storage/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ocalzada/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "c04a7318cafba7e729bde2f775cd796c6ac6bb2c"
+    },
+    "email": "oc1@williams.edu",
+    "startedAt": "2019-11-07T20:57:35.164520",
+    "host": "eb78b52fb80b",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-4.4.0-130-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.8",
+    "cpu_count": 2,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-e09407f2-669e-4af4-b8e5-3a76a21871d9.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "project": "telecom",
+    "heartbeatAt": "2019-11-07T20:57:52.420818"
+}
