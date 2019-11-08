@@ -3,11 +3,11 @@
     "program": "<python with no main file>",
     "git": {
         "remote": "https://github.com/ocalzada/DS-Unit-4-Sprint-2-Neural-Networks.git",
-        "commit": "c04a7318cafba7e729bde2f775cd796c6ac6bb2c"
+        "commit": "418a86d7fcd319400db202824f815dfa1588d8b3"
     },
     "email": "oc1@williams.edu",
-    "startedAt": "2019-11-07T18:44:19.388853",
-    "host": "eb78b52fb80b",
+    "startedAt": "2019-11-08T04:17:27.209270",
+    "host": "313404020e7a",
     "username": "root",
     "executable": "/usr/bin/python3",
     "os": "Linux-4.4.0-130-generic-x86_64-with-Ubuntu-18.04-bionic",
@@ -16,12 +16,12 @@
     "cuda": "10.0.130",
     "args": [
         "-f",
-        "/root/.local/share/jupyter/runtime/kernel-271344c9-dcaa-4813-82f3-55f66d85ee51.json"
+        "/root/.local/share/jupyter/runtime/kernel-8b2d4f2a-a737-45d3-a061-d26feac78ec6.json"
     ],
     "state": "running",
     "jobType": null,
     "mode": "run",
-    "name": "dry-butterfly-20",
+    "name": "stoic-blaze-94",
     "project": "boston",
-    "heartbeatAt": "2019-11-07T23:17:19.707011"
+    "heartbeatAt": "2019-11-08T04:17:42.359128"
 }
